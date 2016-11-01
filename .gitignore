@@ -1,0 +1,16 @@
+* .lib-Cov
+*.semilla
+*.Iniciar sesión
+* .csv
+* .dat
+*.fuera
+* .pid
+* .gz
+*. [OA]
+* ~
+*. #
+** /. DS_Store
+# Ignorar archivos Mac DS_Store
+.DS_Store
+
+.DS_Store
